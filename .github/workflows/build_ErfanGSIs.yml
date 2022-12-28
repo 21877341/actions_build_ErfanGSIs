@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.6.0.QFXCNXM/miui_CRUX_V11.0.6.0.QFXCNXM_f99732787f_10.0.zip
+  ROM_URL: https://v9mt3ru11vgeqg5p8gkd8lq6qa1eoi01qiblp0f9vel1ko2aensvuqm9.qc.dolfincdnx.cn:10443/xdispatchab6c3de12419f17c/bigota.d.miui.com/20.3.26/miui_RAPHAEL_20.3.26_da35e7da9b_10.0.zip?bsreqid=e307d52830b9e1f670cd0322cf932e34
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
